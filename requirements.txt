@@ -1,4 +1,4 @@
-lxml==4.6.3
+lxml==4.6.5
 requests==2.26.0
 httpstan==4.4.2
 pystan==2.19.1.1
