@@ -1,5 +1,5 @@
 lxml==4.6.3
-requests==2.26.0
+requests==2.31.0
 httpstan==4.4.2
 pystan==2.19.1.1
 Flask==2.0.1
